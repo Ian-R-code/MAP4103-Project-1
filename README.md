@@ -15,10 +15,9 @@ References:
 Data Documentation:
 
 Analysis:
-
-
+Based on the three linear regression lines for Productivity score, Mood score, and Stress score, the biggest impacts on each are the time spent sleeping where bot hthe Productivity and Mood scores go up, which is good, and the stress score goes down, which is good. The start and end times for sleeping were opposite for Stress and Productivity which makes sense because oversleeping leads to being late for activities and work and less time to perform tasks. Moving to the K-Nearest Neighbors visualization, two criteria can be compared with the predicted result of either Productivity, Mood, or Stress score being shown. So both Mood and Producitvity are predicted to be lowerer when taking caffeine but Stress goes down. KNN was used because we had a large data set but a relatively small amount of criteria that needed looking at. Using K-Fold Cross-Validation the accuracy of our KNN model for Productivity, Mood, and Stress scores were around 50 percent for all three. Then a Neural Network was created for Productivity, Mood, and Stress, which is applicable becsue of the large data set to train it on, and it had an average accuracy of 52.3 percent. So both models are about as accurate as a coin flip which is not great. If we had more time we would have created a KNN model for more criteria at the same time and spent more time testing different k values to produce a more accurate model. Similarly with the Neural Network, spend more time improving its accuracy. 
 
 Credits:
-Ian-References 1 & 2
-Drew-
+Ian-References 1 & 2, Analysis
+Drew-Code
 Jonathan-Problem statement and references 3 & 4
