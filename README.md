@@ -6,21 +6,27 @@ How does caffeine affect mood?
 How accurately can we predict the level at which mood is effected/raised? 
 How does Exercise and Age affect mood? 
 
-How does caffeine affect mood? How accurately can we predict the level at which mood is effected/raised? 
+How does caffeine affect mood? How accurately can we predict the level at which mood is effected/raised?
+
 Source: https://www.ncbi.nlm.nih.gov/books/NBK209050/
+
 Write up: 
 The military is understandably interested in how troops could operate on low sleep, yet still effectively and without decreased levels of mood/alertness/performance. To study this, Penetar et al. Researched Effects of Caffeine on Cognitive Performance, Mood…, which looked at those three in particular. When it came to mood specifically, they found that “doses of 200 to 250 mg of caffeine elevate mood (Lieberman et al., 1987b)… and that these effects can last for up to 3 h.” 
 
 How does caffeine affect productivity? 
+
 Source: Jacobson and Edgley, 1987; Lieberman et al., 1987a,b; Roache and Griffiths, 1987 
 •	Jacobson, B.H., and B.M.Edgley 1987. Effects of caffeine on simple reaction time and movement time. Aviat. Space Environ. Med. 58:1153–1156.
 •	Lieberman, H.R., R.J.Wurtman, G.G.Emde, and I.L.G.Coviella 1987. a The effects of caffeine and aspirin on mood and performance. J. Clin. Pharmacol. 7:315–320
 •	Roache, J.D., and R.R.Griffiths 1987. Interactions of diazepam and caffeine: Behavioral and subjective dose in humans. Pharmacol. Biochem. Behav. 26:801–812.
+
 Write up: 
 When it comes to decreased levels of sleep in military forces, common issues arise such as lack of alertness, finger shaking, and reaction times slowing. Research done on this typically considers reaction times as related to productivity/performance (since these are important military considerations). According to the above sources, caffeine decreased reaction times in auditory/visual tasks between 32-600 mg (Jacobson and Edgly, Lieberman et al., Roache and Griffiths). The tasks used in particular to look at productivity ranged from basic math skills to card sorting. Noted, however is that motor skills are not typically helped by caffeine (to the same level as auditory/visual tasks). 
 
-How does Exercise and Age affect mood? 
+How does Exercise and Age affect mood?
+
 Source: https://www.ncbi.nlm.nih.gov/books/NBK68187/
+
 Write up:
 When looking at individuals 60 years and up, SM Arent attempted to answer the question–does age and exercise affect mood? (Specifically in older adults). Groups that were considered ranged ages and lengths of exercise, from 1 to 6 weeks and 7 to 12 weeks. Based upon their examination, it was shown that increased exercise vs. lack of resulted in better moods. Important to note is that between fitness groups (i.e. increase in fitness, where both are working out, but one group more than the other) there was less of a difference. Therefore it appears that exercise does result in positive mood increases. 
 
