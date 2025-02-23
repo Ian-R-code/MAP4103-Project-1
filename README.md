@@ -2,11 +2,11 @@
 Instructions to run code:
 
 Questions: How does caffeine affect productivity? 
-How does caffeine effect mood? 
+How does caffeine affect mood? 
 How accurately can we predict the level at which mood is effected/raised? 
 How does Exercise and Age affect mood? 
 
-How does caffeine effect mood? How accurately can we predict the level at which mood is effected/raised? 
+How does caffeine affect mood? How accurately can we predict the level at which mood is effected/raised? 
 Source: https://www.ncbi.nlm.nih.gov/books/NBK209050/
 Write up: 
 The military is understandably interested in how troops could operate on low sleep, yet still effectively and without decreased levels of mood/alertness/performance. To study this, Penetar et al. Researched Effects of Caffeine on Cognitive Performance, Mood…, which looked at those three in particular. When it came to mood specifically, they found that “doses of 200 to 250 mg of caffeine elevate mood (Lieberman et al., 1987b)… and that these effects can last for up to 3 h.” 
