@@ -1,7 +1,8 @@
 # MAP4103-Project-1
 Instructions to run code:
 
-What questions are we answering: Sleep deprivation–can I track my mood,stress, or productivity score based upon sleep amount and caffeine? 
+Questions are we answering: Sleep deprivation–can I track my mood,stress, or productivity score based upon sleep amount and caffeine? 
+Can I accurately predict my level of productivity/mood based upon sleep and caffeine? 
 
 Discussion:
 How often do you wake up not feeeling fully rested? If you're among the 35% (1) of Americans who are defined by the CDC as sleep deprived (getting less than 7 hours of efficient sleep). The true amount maay be even higher than 35%. One common coping mechanism that people fall back on is caffeine consumption, typically through coffee. Caffeine blocks adenosine receptors, and lessens/lowers REM/Deep sleep levels (2, Bagheri, et. al. ). Caffeine is only a temporay solution therefore, blocking the recognition of the problem, but not solving the root of the issue (lack of sleep). Not only does caffeine hide the true issue, it can negatively affect health. In a study by Burke et. al (ref. 3), it's affects on the circadian rythm only solidified the common instruction to avoid it before bed time (caffeine's half-life is 6 hours). In a side note however, it may be useful to decrease jet lag, because of its effect on circadian rythms. 
