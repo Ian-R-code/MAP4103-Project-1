@@ -9,7 +9,7 @@ pip install requirements.txt
 
 ## Usage
 - Follow the code cells in `main.ipynb`
-- UPPERCASE_VARIABLES are specified by the users
+- **UPPERCASE_VARIABLES** are specified by the users
 ---
 
 
