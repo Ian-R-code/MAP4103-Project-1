@@ -1,7 +1,5 @@
 # MAP4103-Project-1
 
-
-
 ## Installation
 ```bash
 git clone https://github.com/Ian-R-code/MAP4103-Project-1.git
@@ -10,9 +8,16 @@ pip install requirements.txt
 ---
 
 ## Usage
-Follow the code cells in `main.ipynb`
-
+- Follow the code cells in `main.ipynb`
+- UPPERCASE_VARIABLES are specified by the users
 ---
+
+
+## Data Preprocessing 
+- Date and Person_ID is dropped since they are not useful features
+- Gender is one -hot-encoded since gender is nominal data
+- MinMaxScaler is used to normalized other features to [0, 1] range that aligned well with the binary value of the one-hot-encoded gender
+- In the section **K Nearest Neighbors Visualization**, there is an option to standard scale the features
 
 ## Questions
 
@@ -64,6 +69,6 @@ Based on the three linear regression lines for Productivity score, Mood score, a
 
 Ian-References 1 & 2, Analysis
 
-Drew-Code
+Drew-Write instruction and code
 
 Jonathan-Question statements and write ups, reference 3 & in question reference
