@@ -69,6 +69,6 @@ Based on the three linear regression lines for Productivity score, Mood score, a
 
 Ian-References 1 & 2, Analysis
 
-Drew-Write instruction and code
+Trieu-Write instruction and code
 
 Jonathan-Question statements and write ups, reference 3 & in question reference
